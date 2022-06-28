@@ -2,11 +2,6 @@
 
 require "../../vendor/autoload.php";
 
-//use Jopa\QueryBuilder;
-
-//$db = new QueryBuilder();
-
-
 //самый простой роутинг, пока закоменчу
 //if($_SERVER['REQUEST_URI'] == '/home'){
 //	require '../../mycomponent/controllers/homepage.php';
